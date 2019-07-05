@@ -1,5 +1,5 @@
 {
-    "name": "robyconte/Dockerize",
+    "name": "robyconte/cakephp-dockerize",
     "description": "Dockerize plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
