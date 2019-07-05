@@ -1,4 +1,4 @@
-# Dockerize 🐳 plugin for CakePHP 🍰
+# Dockerize plugin for CakePHP
 The goal of this project is to make docker project configuration, using cakephp3, easy.
 Before using this plugin you have to setup basic docker configuration using
 my config [cakephp3-docker](https://github.com/RoBYCoNTe/cakephp-docker-config.git).
@@ -18,4 +18,4 @@ After that you can setup your application to get it ready to use
 this command from the command line:
 ```
 bin/cake Dockerize.setup exec
-´´´
+```
